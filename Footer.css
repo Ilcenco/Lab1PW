@@ -1,0 +1,51 @@
+.footer{
+    background-color: #e0e0e0;
+    width: 99vw;
+    height: 60vh;
+}
+
+.footerStroke{
+    position: absolute;
+    top: 241.5%;
+    left: 6.5%;
+    transform: translate(-50%, -50%);
+}
+.footerLogo{
+    position: absolute;
+    top: 220%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+}
+.list1 {
+    position: absolute;
+    top: 210%;
+    left: 30%;
+}
+
+li{
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.t1 {
+    font-family: fantasy;
+    font-size: 22px;
+}
+.list2 {
+    position: absolute;
+    top: 210%;
+    left: 45%;
+}
+
+.footerPaperTear{
+    position: absolute;
+    top: 188%;
+    right: 0%;
+}
+.footerDropDown{
+    position: absolute;
+    top:215%;
+    left: 75%;
+}
+.triangle{
+    margin-left: 90px;
+}
